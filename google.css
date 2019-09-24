@@ -1,0 +1,37 @@
+/*pour arranger le head du haut*/
+.inline li{ display: inline-block; 
+float : right;
+font-size: 15px;
+height: 50px;
+width: 100px;
+padding: 10px;}
+
+/* POUR CHARGER UNE IMAGE ET LA CENTRER*/
+.BR  #image {text-align: center;
+display: block;
+margin: 0 auto;
+padding-top: 400px;
+padding-bottom: 45px;}
+
+/*CENTRER LA BARRE DE RECHERCHE*/
+.form {text-align: center;}
+
+.boutons {text-align: center;}
+
+
+/*pour mettre la barre de recherche du bas*/
+footer ul li{
+    display: inline; 
+    
+    font-size: 15px;
+    margin: 0 auto;
+    
+padding-bottom: 200px;}
+
+footer {margin-top: 700px;}
+footer ul {
+    float: left;
+}
+
+.menudroite {float: right;}
+
